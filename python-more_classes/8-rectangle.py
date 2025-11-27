@@ -6,6 +6,7 @@ area, perimeter, string representation,
 instance tracking, and comparison method.
 """
 
+
 class Rectangle:
     """Defines a rectangle"""
 
