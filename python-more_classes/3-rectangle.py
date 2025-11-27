@@ -71,4 +71,3 @@ class Rectangle:
         Default behavior: <module.Class object at address>
         """
         return super().__repr__()
-
